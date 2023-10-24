@@ -13,6 +13,9 @@ Hello, i'm Zeppline 👋
 
 Zeppline's GitHub stats
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeppIine&theme=flag-india&show_icons=true&hide=stars&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeppIine&layout=compact&theme=flag-india)
+
 🐱 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0904min@gmail.com)](kim0904min@gmail.com)
