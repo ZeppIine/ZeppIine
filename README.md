@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello, i'm Zeppline 👋
+한국에서 코딩 공부 중인 학생 김민(KIM MIN)입니다!
 
-<!--
-**ZeppIine/ZeppIine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Stacks
+# <img src="https://img.shields.io/badge/기술명-색상코드?style=flat-square&logo=로고&logoColor=색상"/>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
 
-Here are some ideas to get you started:
+💪🏼 Tools
+<img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Zeppline's GitHub stats
+
+🐱 About Me
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0904min@gmail.com)](kim0904min@gmail.com)
