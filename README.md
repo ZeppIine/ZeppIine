@@ -18,7 +18,6 @@ Zeppline's GitHub stats
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0904min@gmail.com)](kim0904min@gmail.com)
-Persnal Email: kim0904min@gmail.com
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kim0904min@gmail.com)](kim0904min@gmail.com)<img src="https://img.shields.io/badge/kim0904min@gmail.com-555555?style=flat-square"/>
 
 ![Discord Badge](https://dcbadge.vercel.app/api/shield/394711839176523777?style=flat-square)
