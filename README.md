@@ -13,7 +13,7 @@
 
 Zeppline's GitHub stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeppIine&theme=flag-india&show_icons=true&hide=stars&count_private=true)
+![Zeppline's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZeppIine&theme=flag-india&show_icons=true&hide=stars&count_private=true&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZeppIine&layout=compact&theme=flag-india)
 
 🐱 About Me
